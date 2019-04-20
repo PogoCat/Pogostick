@@ -9,3 +9,6 @@ and more effencien
 PS : sorry for bad english
 
 THX for help 
+
+
+PS 2nd : I am German so the text in the code is german too , just change it if you want
